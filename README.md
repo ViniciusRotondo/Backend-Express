@@ -1,2 +1,3 @@
 # Backend-Express
-Estrutura express para backend - visto em sala de aula Digital House - Curso FullStack
+Estrutura express para backend para E-commerce 
+Visto em sala de aula Digital House - Curso Desenvolvedor FullStack
